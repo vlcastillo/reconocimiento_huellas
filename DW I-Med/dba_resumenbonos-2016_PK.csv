@@ -1,0 +1,3 @@
+TABLE_CAT	TABLE_SCHEM	TABLE_NAME	COLUMN_NAME	KEY_SEQ	PK_NAME
+(null)	dba	resumenbonos_2016	foliobono	1	resumenbonos_2016_numoperacion_foliobono_pkey
+(null)	dba	resumenbonos_2016	numoperacion	0	resumenbonos_2016_numoperacion_foliobono_pkey

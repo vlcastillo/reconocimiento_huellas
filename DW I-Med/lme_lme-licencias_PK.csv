@@ -1,0 +1,2 @@
+TABLE_CAT	TABLE_SCHEM	TABLE_NAME	COLUMN_NAME	KEY_SEQ	PK_NAME
+(null)	lme	lme_licencias	id_licencia	0	lme_licencias_id_licencia_pkey
